@@ -15,9 +15,3 @@
 
 </div>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=nbialk&color=orange)
-  
-</div>
-
